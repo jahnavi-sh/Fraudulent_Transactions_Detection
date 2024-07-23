@@ -20,7 +20,7 @@ import imblearn
 from imblearn.under_sampling import NearMiss
 
 #load the dataset 
-df = pd.read_csv(r'C:\Users\jahna\Downloads\Fraud.csv')
+df = pd.read_csv(r'Fraud.csv')
 
 #view the dataset 
 #Exploratory data analysis 
